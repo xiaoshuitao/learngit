@@ -2,9 +2,6 @@ woainifwjdkfjdkfjdkmaster
 woainifwjdkfjdkfjdkgghh
 feature1
 woaini 
-<<<<<<< HEAD
 oo
-=======
 hh
->>>>>>> geature1
 ghh111222
